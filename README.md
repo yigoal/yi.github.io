@@ -1,5 +1,6 @@
-# welcome to my githug repo
+# SCCM installation guide
 this is the index page of showing SCCM installation
+
 #This is my repo for storing info
 there are some documents in this repo introducing SCCM and its initial installation configuration
 
